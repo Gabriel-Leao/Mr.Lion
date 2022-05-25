@@ -1,18 +1,19 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { StyledHeader } from "./styles"
+import { SearchOutlined, RobotFilled  } from "@ant-design/icons"
 
 const Header = () => {
   return ( 
-    <header>
+    <StyledHeader>
       <h1>
-        <i>icone</i>
+        <i> <RobotFilled /> </i>
         <a href="#" title="Reparando computadores com um sorriso">Mr. Lion</a>
       </h1>
 
-      <form action="" method="post">
+      <form>
         <input type="text" name="Digite a sua pesquisa..."/>
-        <button>pesquisa lupa botao</button>
+        <button><SearchOutlined /></button>
       </form>
-    </header>
+    </StyledHeader>
    )
 }
  
