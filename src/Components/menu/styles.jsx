@@ -15,7 +15,7 @@ export const StyledNav = styled('nav', {
     marginRight: '25px',
 
     '&:hover': {
-      color: '#0cae98'
+      color: '#00D1B0'
     }
   }
 })
@@ -30,6 +30,6 @@ export const StyledIcons = styled('div', {
   },
 
   '& a>:hover': {
-    color: '#0cae98'
+    color: '#00D1B0'
   }
 })

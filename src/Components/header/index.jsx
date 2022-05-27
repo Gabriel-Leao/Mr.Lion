@@ -5,7 +5,7 @@ const Header = () => {
   return ( 
     <StyledHeader>
       <h1>
-        <i> <RobotFilled /> </i>
+        <img src="/Captura de tela de 2022-05-27 16-49-50.png" alt="" />
         <a href="#" title="Reparando computadores com um sorriso">Mr. Lion</a>
       </h1>
 
