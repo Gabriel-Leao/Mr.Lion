@@ -1,7 +1,7 @@
 import { styled } from '@stitches/react'
 
 export const StyledHeader = styled('header', {
-  backgroundColor: '#00D1B0',
+  backgroundColor: '#13c7ae',
   float: 'left',
   padding: '50px 8%',
   width: '100%',
@@ -16,7 +16,8 @@ export const StyledHeader = styled('header', {
   '& img': {
     color: '#fff',
     float: 'left',
-    fontSize: '40px'
+    width: '50px',
+    height: '45px',
   },
 
   '& form': {

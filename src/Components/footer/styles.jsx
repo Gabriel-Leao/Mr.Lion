@@ -1,4 +1,4 @@
-import { styled } from "@stitches/react";
+import { styled } from '@stitches/react'
 
 export const StyledFooter = styled('footer', {
   backgroundColor: '#13c7ae',

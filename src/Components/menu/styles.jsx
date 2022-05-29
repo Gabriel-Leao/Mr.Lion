@@ -1,4 +1,4 @@
-import { styled } from "@stitches/react";
+import { styled } from '@stitches/react'
 
 export const StyledNav = styled('nav', {
   backgroundColor: '#111',

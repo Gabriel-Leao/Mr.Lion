@@ -1,4 +1,4 @@
-import { styled } from "@stitches/react";
+import { styled } from '@stitches/react'
 
 export const StyledSection = styled('section', {
   backgroundColor: '#111',
