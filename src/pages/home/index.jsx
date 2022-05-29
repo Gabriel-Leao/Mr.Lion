@@ -1,3 +1,4 @@
+import Footer from "../../Components/footer"
 import Header from "../../Components/header/index"
 import Main from "../../Components/main"
 import Menu from "../../Components/menu"
@@ -10,6 +11,7 @@ const Home = () => {
       <Menu />
       <Main />
       <Newsletter />
+      <Footer />
     </>
   )
 }
