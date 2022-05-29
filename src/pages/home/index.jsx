@@ -1,4 +1,5 @@
 import Header from "../../Components/header/index"
+import Main from "../../Components/main"
 import Menu from "../../Components/menu"
 
 const Home = () => {
@@ -6,6 +7,7 @@ const Home = () => {
     <>
       <Header />
       <Menu />
+      <Main />
     </>
   )
 }
