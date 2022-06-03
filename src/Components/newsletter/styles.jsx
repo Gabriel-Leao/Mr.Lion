@@ -8,12 +8,14 @@ export const StyledSection = styled('section', {
 
   '& h3': {
     color: '#fff',
-    fontSize: '1.8em'
+    fontSize: '1.8em',
+    textAlign: 'center'
   },
 
   '& p': {
     color: '#fff',
-    fontSize: '1.2em'
+    fontSize: '1.2em',
+    textAlign: 'center'
   },
 
   '& form': {
